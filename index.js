@@ -15,5 +15,11 @@ function sayHiToGrandma(string4){
     return "I can't hear you!"
   }
 }
+function sayHiToGrandma(string5){
+  if ((string5.toUpperCase())===string5){
+    return "YES INDEED!"
+  }
+}
+
 
   
